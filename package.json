@@ -1,0 +1,14 @@
+{
+  "name": "webpack-build-configs",
+  "version": "1.0.0",
+  "description": "Reusable Webpack configurations for React, TypeScript, and library builds",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "keywords": [],
+  "author": "superdev1211",
+  "license": "MIT"
+}
